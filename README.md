@@ -1,7 +1,10 @@
 # RF-WiFi-Bridge-Based-on-ESP32
 
 <div align="center"><a href="#"><img src="Images/8.png" width="400" ></a><br><br></div>
-IoT security gadget based on ESP32 is a smart security system designed to detect any unauthorized entry into a place and alert the homeowner via MQTT Protocol  and call to their mobile phone. The system is built using an ESP32 microcontroller, a PIR sensor, an internal battery and Tasmota firmware.
+This RF Bridge can convert most of the 433.92MHz RF Remotes into WiFi wireless, It can be used for most of the 433.92MHz RF Remote controlled products, like RF controlled switch, RF controlled socket, RF controlled bulb, RF controlled door opener, etc.
+
+Even more exciting is that it will work with the 433.92MHz door magnetic sensor, 433.92MHz human body IR sensor, and more other 433.92MHz sensors to realize security alarm.
+
 
 <br/>
 
@@ -14,21 +17,27 @@ IoT security gadget based on ESP32 is a smart security system designed to detect
 <br/>
 
 
+With this project, you can easily control your home appliances and security systems remotely using your smartphone or tablet.
 
-ESP32 is a powerful microcontroller that's commonly used in IoT projects due to its low cost, low power consumption, and built-in Wi-Fi and Bluetooth connectivity. The ESP32 can be used to process data from various sensors and modules, making it a perfect choice for a home security system. [refrence](https://github.com/espressif/arduino-esp32)
+One of the advantages of this project is that it is easy to install and use. You don't need any special technical skills or knowledge to set it up. All you need is a WiFi network, a smartphone or tablet, and a few minutes of your time. Once it's set up, you can control your home appliances and security systems from anywhere in the world, as long as you have an internet connection.
 
-Tasmota firmware is an open-source firmware for ESP8266 and ESP32-based devices that provides a web interface for configuration and control of the device. It's designed to be easy to use and highly configurable, making it a popular choice for DIY IoT projects. [refrence](https://github.com/arendst/Tasmota)
+In addition, this project is also cost-effective. It is much cheaper than buying new smart home devices to replace your existing RF remote controlled products. With this project, you can upgrade your home to a smart home without spending a lot of money.
+
+The system is built using an ESP32 microcontroller, a RF transceiver and Tasmota firmware.
+
+
+
 <br/>
 <br/>
 <div align="center"><a href="#"><img src="Images/3.JPG"  width="1200"></a><br></div>
 
 <br/>
 
-The PIR sensor is a motion sensor that detects changes in infrared radiation in its field of view. When an intruder enters the field of view, the PIR sensor detects the movement and sends a signal to the ESP32 microcontroller.
 
-The ESP32 microcontroller can process the data from the PIR sensor and trigger various actions and alerts based on the data. For example, when the PIR sensor detects motion, the system can send an alert to the user's smartphone or trigger an audible alarm.
+ESP32 is a powerful microcontroller that's commonly used in IoT projects due to its low cost, low power consumption, and built-in Wi-Fi and Bluetooth connectivity. The ESP32 can be used to process data from various sensors and modules, making it a perfect choice for a home security system. [refrence](https://github.com/espressif/arduino-esp32)
 
-To power the system, an internal battery can be used. The internal battery is a rechargeable battery that's built into the system, providing power to the system for an extended period, even if there's a power outage.
+Tasmota firmware is an open-source firmware for ESP8266 and ESP32-based devices that provides a web interface for configuration and control of the device. It's designed to be easy to use and highly configurable, making it a popular choice for DIY IoT projects. [refrence](https://github.com/arendst/Tasmota)
+
 <br/>
 <br/>
 
