@@ -45,7 +45,7 @@ Tasmota firmware is an open-source firmware for ESP8266 and ESP32-based devices 
 
 <br/>
 
-### This project has been tested more than 2000 hours...
+### This project has been tested more than 1000 hours...
 
 
 ## IoT mobile application for project
