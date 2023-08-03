@@ -20,8 +20,6 @@ One of the advantages of this project is that it is easy to install and use. You
 
 In addition, this project is also cost-effective. It is much cheaper than buying new smart home devices to replace your existing RF remote controlled products. With this project, you can upgrade your home to a smart home without spending a lot of money.
 
-The system is built using an ESP32 microcontroller, a RF transceiver and Tasmota firmware.
-
 
 
 <br/>
@@ -30,6 +28,7 @@ The system is built using an ESP32 microcontroller, a RF transceiver and Tasmota
 
 <br/>
 
+The system is built using an ESP32 microcontroller, a RF transceiver and Tasmota firmware.
 
 ESP32 is a powerful microcontroller that's commonly used in IoT projects due to its low cost, low power consumption, and built-in Wi-Fi and Bluetooth connectivity. The ESP32 can be used to process data from various sensors and modules, making it a perfect choice for a home security system. [refrence](https://github.com/espressif/arduino-esp32)
 
