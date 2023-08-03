@@ -64,7 +64,8 @@ The MQTT protocol is a lightweight messaging protocol that's commonly used in Io
     -  Tasmota firmware is an open-source firmware for ESP8266 and ESP32-based devices that provides a web interface for configuration and control of the device. It's designed to be easy to use and highly configurable, making it a popular choice for DIY IoT projects. [refrence](https://github.com/arendst/Tasmota)
 
 -  RF transceiver:
-    -  The PIR sensor is a motion sensor that detects changes in infrared radiation in its field of view. The ESP32 microcontroller can process the data from the PIR sensor and trigger various actions and alerts based on the data.
+    - Supported Radio: 433MHz RF
+    - Supports fixed code 433 frequency: PT2260, PT2262, PT2264, EV1527, etc.
 
  -  IOT:
     -  Sending and receiving information with the MQTT protocol for any device or person.
