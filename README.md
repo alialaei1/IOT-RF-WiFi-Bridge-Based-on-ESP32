@@ -44,11 +44,8 @@ Tasmota firmware is an open-source firmware for ESP8266 and ESP32-based devices 
 <div align="center"><a href="#"><img src="Images/4.PNG"  width="1200"></a><br></div>
 
 <br/>
-The system can also be integrated with other smart home devices, such as smart lights and smart locks. This allows the user to control the security system and other smart home devices from a single interface.
 
-Overall, an IoT security gadget based on ESP3 and Tasmota is a simple yet effective solution for detect any unauthorized entry into a place even during power outages.
-
-### This project has been tested more than 8000 hours...
+### This project has been tested more than 2000 hours...
 
 
 ## IoT mobile application for project
